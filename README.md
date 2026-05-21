@@ -20,7 +20,7 @@ cd devtracker-github-analyzer
 # Set up a virtual environment
 
 python -m venv venv
-source venv/Scripts/activate
+source venv/Scripts/activate #On windows
 
 # Install required dependencies
 
